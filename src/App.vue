@@ -42,8 +42,10 @@
          <van-tabs v-model="active"
          title-active-color="#00c6ff"
          title-inactive-color="#005bea"
+         title="作品集"
          >
-          <van-tab title="h5">h5</van-tab>
+         <!-- 作品集 -->
+          <van-tab title="h5">作品集</van-tab>
           <van-tab title="css">css</van-tab>
           <van-tab title="js">js</van-tab>
           <van-tab title="vant">vant</van-tab>
